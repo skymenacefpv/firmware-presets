@@ -1,20 +1,11 @@
 #$ TITLE: Skymenace OSD
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: analog, racing, Skymenace, rates, MultiGP, FAI, HK
 #$ AUTHOR: Michael Zafirov
 
-#$ INCLUDE: presets/4.3/osd/defaults.txt
-
-
-#$ TITLE: Skymenace OSD
-#$ FIRMWARE_VERSION: 4.3
-#$ FIRMWARE_VERSION: 4.4
-#$ CATEGORY: RATES
-#$ STATUS: COMMUNITY
-#$ KEYWORDS: racing, Skymenace, rates, MultiGP, FAI, HK
-#$ AUTHOR: Michael Zafirov
 #$ DESCRIPTION: OSD of Skymenace - National pilot of the Hong Kong FPV racing team
 #$ DESCRIPTION: EMAX HongKong FPV Open - 3rd
 #$ DESCRIPTION: FAI world Championships 2018 - 31st
@@ -26,6 +17,8 @@
 #$ DESCRIPTION: FlySmart DIGI Micro Race B class - 1st
 #$ DESCRIPTION: FPV-Spiders Team racing 2021 - 1st
 #$ DESCRIPTION: DNT HongKong SaiYuan FPV open 2021 - 1st
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
 
 set osd_units = METRIC
 set osd_warn_arming_disable = ON
