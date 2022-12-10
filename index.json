@@ -1431,11 +1431,10 @@
     },
     {
       "fullPath": "presets/4.3/rates/SkyMenace.txt",
-      "hash": "3c8f43533af65c4fee909c8729c7cf8356145d4538d81d5b8545a73aa2e4fefc",
+      "hash": "8f65129ddcd23410b31a687c776aad9690fced512aec188970f472d2b623ff18",
       "title": "Skymenace rates",
       "firmware_version": [
-        "4.3",
-        "4.4"
+        "4.3"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -3583,10 +3582,9 @@
     },
     {
       "fullPath": "presets/4.4/rates/SkyMenace.txt",
-      "hash": "104fc69d885dc0da8016c1ee2ab940182ae1cda6e904e574405e49c60b3a5181",
+      "hash": "a4e07e7e63d64dbb4302d183e3f6ef710c84922d9abaaa37c644051659f7df7d",
       "title": "Skymenace rates",
       "firmware_version": [
-        "4.3",
         "4.4"
       ],
       "category": "RATES",
