@@ -4,7 +4,18 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: racing, Skymenace, rates, MultiGP, FAI, HK
 #$ AUTHOR: Michael Zafirov
-#$ DESCRIPTION: Rates by Skymenace - Former Hong Kong national team pilot and cinematagraphy pilot
+#$ DESCRIPTION: Rates by Skymenace - National pilot of the Hong Kong FPV racing team
+#$ DESCRIPTION: EMAX HongKong FPV Open - 3rd
+#$ DESCRIPTION: FAI world Championships 2018 - 31st
+#$ DESCRIPTION: XFLY Nanjing station - 4th
+#$ DESCRIPTION: HKWESG Asia Expo FPV Open - semifinalist
+#$ DESCRIPTION: FAI Korea Daegu FPV Open - 50th
+#$ DESCRIPTION: FAI HongKong Open 2019 - 7th
+#$ DESCRIPTION: Taiwan TIRT FPV Open 2019 - 7th
+#$ DESCRIPTION: FlySmart DIGI Micro Race B class - 1st
+#$ DESCRIPTION: FPV-Spiders Team racing 2021 - 1st
+#$ DESCRIPTION: DNT HongKong SaiYuan FPV open 2021 - 1st
+#$ DESCRIPTION:
 #$ DESCRIPTION: ACTUAL rates!!
 #$ DISCUSSION: https://github.com/skymenacefpv/firmware-presets
 #$ INCLUDE: presets/4.3/rates/defaults.txt
