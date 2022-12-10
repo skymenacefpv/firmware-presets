@@ -818,6 +818,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/SkymenaceOSD.txt",
+      "hash": "9d5555169a54945dbb57988a965b9e3d277efb52169a675e31a84b9495c15193",
+      "title": "Skymenace OSD",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog",
+        "racing",
+        "Skymenace",
+        "rates",
+        "MultiGP",
+        "FAI",
+        "HK"
+      ],
+      "author": "Michael Zafirov",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
@@ -1431,7 +1453,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/SkyMenace.txt",
-      "hash": "8f65129ddcd23410b31a687c776aad9690fced512aec188970f472d2b623ff18",
+      "hash": "71e3d4f2ea5f6dc3f1b32608fdbeb016a26b46258fd9a85bc8042f2474b85681",
       "title": "Skymenace rates",
       "firmware_version": [
         "4.3"
@@ -3579,26 +3601,6 @@
       "author": "Daniel Appel / Tehllama",
       "force_options_review": true,
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/rates/SkyMenace.txt",
-      "hash": "a4e07e7e63d64dbb4302d183e3f6ef710c84922d9abaaa37c644051659f7df7d",
-      "title": "Skymenace rates",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "Skymenace",
-        "rates",
-        "MultiGP",
-        "FAI",
-        "HK"
-      ],
-      "author": "Michael Zafirov",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.4/tune/ctzsnooze_5in_4S_race.txt",
